@@ -1,0 +1,5 @@
+dirent.h		http://pubs.opengroup.org/onlinepubs/7908799/xsh/dirent.h.html
+			https://www.geeksforgeeks.org/c-program-list-files-sub-directories-directory/
+			manpages
+
+tree commands		https://www.cyberciti.biz/faq/linux-show-directory-structure-command-line/

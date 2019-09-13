@@ -1,0 +1,7 @@
+./project          	{prints full tree without hidden files}
+./project -a		{prints full tree with the hidden files}	
+./project -d		{prints only the directories}
+./project -a -d		{prints only the directories with and without hidden files}
+./project -a -d -f
+./project -a -d -i -f
+./project -i
